@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DOTA_2_scene", "DOTA_2_scene\DOTA_2_scene.vcxproj", "{2405E10E-7F28-42BD-B176-82E3C48D92F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "planning", "planning", "{DFDB5765-E7D7-4CFF-8995-D76EB842211A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "layout", "layout", "{31A4F3E8-2889-4CB3-80BA-2ACC2DEED006}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\lasin\OneDrive\Pictures\dota2-minimap.jpg = C:\Users\lasin\OneDrive\Pictures\dota2-minimap.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2405E10E-7F28-42BD-B176-82E3C48D92F4}.Debug|x64.ActiveCfg = Debug|x64
+		{2405E10E-7F28-42BD-B176-82E3C48D92F4}.Debug|x64.Build.0 = Debug|x64
+		{2405E10E-7F28-42BD-B176-82E3C48D92F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{2405E10E-7F28-42BD-B176-82E3C48D92F4}.Debug|x86.Build.0 = Debug|Win32
+		{2405E10E-7F28-42BD-B176-82E3C48D92F4}.Release|x64.ActiveCfg = Release|x64
+		{2405E10E-7F28-42BD-B176-82E3C48D92F4}.Release|x64.Build.0 = Release|x64
+		{2405E10E-7F28-42BD-B176-82E3C48D92F4}.Release|x86.ActiveCfg = Release|Win32
+		{2405E10E-7F28-42BD-B176-82E3C48D92F4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{31A4F3E8-2889-4CB3-80BA-2ACC2DEED006} = {DFDB5765-E7D7-4CFF-8995-D76EB842211A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {129D5C0B-24CA-4826-A66D-4B899D60CBAA}
+	EndGlobalSection
+EndGlobal
