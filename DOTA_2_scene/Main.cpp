@@ -453,7 +453,7 @@ void display() {
     setLighting();
 
     // draw objects here
-    //drawLand();
+    drawLand();
     drawScene();
 
     glPopMatrix();
